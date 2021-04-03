@@ -1,0 +1,11 @@
+.app-modal {
+  width: 600px;
+  padding: 20px;
+  background: $color-white;
+  position: absolute;
+  z-index: 10;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  box-shadow: 3px -2px 5px 7px rgba($color-black, .75);
+}

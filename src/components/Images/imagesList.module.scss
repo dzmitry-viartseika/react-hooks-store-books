@@ -1,0 +1,10 @@
+@import "src/assets/scss/variables";
+
+.appImagesList {
+  display: flex;
+  flex-wrap: wrap;
+
+  &__title {
+    text-align: center;
+  }
+}

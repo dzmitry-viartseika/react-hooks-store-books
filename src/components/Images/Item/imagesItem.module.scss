@@ -1,0 +1,10 @@
+@import "src/assets/scss/variables";
+
+.appImagesItem {
+  padding: 15px;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
